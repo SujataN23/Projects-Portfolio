@@ -1,5 +1,5 @@
 # 👾Machine Learning & AI Projects Portfolio👾
->This repository highlights the major **ML, NLP, and AI projects** I have worked on. Each project demonstrates hands-on experience in **data preprocessing, model building, evaluation, and deployment**.  
+>This repository highlights the major **ML, NLP, and AI projects** I have worked on. Each project demonstrates hands-on experience.
 
 ---
 
