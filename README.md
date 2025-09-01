@@ -1,24 +1,36 @@
-#### 1.Lending Club Case Study - 
-- This case study is to determine which application is suitable to lend the money so that lending club will minimise the risk of losing money while lending to customer. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile
+# 📂 Machine Learning & AI Projects Portfolio
+> Hi 👋, this repository highlights the major ML, NLP, and AI projects I have worked on. Each project demonstrates hands-on experience in data preprocessing, model building, evaluation, and deployment.
 
-#### 2.Bike Sharing System -
-- A US bike-sharing provider BoomBikes, they have contracted a consulting company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market. The company wants to know:
-1.Which variables are significant in predicting the demand for shared bikes.
-2.How well those variables describe the bike demands
-Model used by the management to understand how exactly the bike demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
+## 📊 Project Overview
+#	Project	Description	Key Methods / Tech	Outcome
+1	Decision Trees – Alzheimer’s Disease Analysis	Predict Alzheimer’s disease based on demographic, medical, and clinical data.	Decision Tree, Random Forest, Logistic Regression, KNN, SVM, XGBoost, CatBoost	Early detection model for better treatment planning.
+2	Random Forest – Heart Disease Prediction	Predicts the presence of heart disease using clinical and demographic data.	Random Forest Classifier	Supports doctors in risk assessment and early intervention.
+3a	Spam Detector (Lexical Processing)	Classify SMS as spam or ham. Dataset: 5,574 messages.	NLP preprocessing, TF-IDF, Naive Bayes	Achieved 97% accuracy in spam detection.
+3b	Spell Corrector (Lexical Processing)	Implements a spelling correction system using edit distance.	Peter Norvig’s algorithm, Probability-based correction	Suggests most probable corrections (e.g., monney → money).
+4	Syntactic Processing – Healthcare	Extract disease–treatment pairs from clinical text.	Conditional Random Fields (CRFs), POS tagging, Contextual features	Structured knowledge extraction from unstructured medical text.
+5	Laptop Shop Assistant (Flask App)	Chatbot that recommends laptops based on user preferences.	NLP, OpenAI API, Flask, Recommendation System	Interactive shopping assistant deployed with Flask.
+6	Capstone: Eye for Blind	Generates image captions and converts them to speech for visually impaired users.	CNN + LSTM with Attention, TTS, Flickr8K dataset	AI system that makes images accessible via audio descriptions.
+7	Automatic Ticket Classification	Classifies financial complaints into predefined categories.	Topic Modeling (NMF), Logistic Regression	Best model (LogReg) achieved 95% accuracy, automating complaint triaging.
+🛠️ Technologies Used
 
-#### 3.Telecom_churn_case_study -
-- In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
-For many incumbent operators, retaining high profitable customers is the number one business goal. To reduce customer churn, telecom companies need to predict which customers are at high risk of churn. In this project, you will analyze customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn, and identify the main indicators of churn.
-Goal is to build a machine learning model that is able to predict churning customers based on the features provided for their usage.
+Languages: Python (3.11), SQL
 
-#### 4.Melanoma Detection Assignment -
-- Problem statement: To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+ML/DL Libraries: Scikit-learn, XGBoost, CatBoost, PyTorch, TensorFlow, Keras
 
-#### 5.Syntactic_Processing_healthcare
+NLP Tools: NLTK, spaCy, TF-IDF, CRFs
 
-#### 6.Automatic-Ticket-Classification
+Visualization: Matplotlib, Seaborn, Plotly
 
-#### 7.blind-eye
+Deployment: Flask, OpenAI API
 
-#### 8.Shop_Assist
+Others: Pandas, NumPy, Jupyter
+
+🚀 Key Highlights
+
+Worked across healthcare, finance, retail, and accessibility domains.
+
+Applied both classical ML and Deep Learning techniques.
+
+Deployed a Flask-based AI assistant for laptop recommendations.
+
+Capstone project integrated Vision + NLP + Speech for accessibility.
