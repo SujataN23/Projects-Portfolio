@@ -15,6 +15,8 @@
 | 6 | **Automatic Ticket Classification** | Classifies financial complaints into predefined categories. | Topic Modeling (NMF), Logistic Regression | Best model (LogReg) achieved **95% accuracy**, automating complaint triaging. |
 | 7a | **Spam Detector (Lexical Processing)** | Classify SMS as spam or ham. Dataset: 5,574 messages. | NLP preprocessing, TF-IDF, Naive Bayes | Achieved **97% accuracy** in spam detection. |
 | 7b | **Spell Corrector (Lexical Processing)** | Implements a spelling correction system using edit distance. | Peter Norvig’s algorithm, Probability-based correction | Suggests most probable corrections (e.g., *monney → money*). |
+| 8 | **LangChain LLM Applications** | Hands-on implementation of LangChain components to build LLM-powered workflows including prompts, chains, embeddings, and structured outputs. | LangChain, LLMs, Prompt Engineering, Embeddings, Output Parsers, Chains | Built modular LLM pipelines demonstrating real-world GenAI application design. |
+
 
 ---
 
