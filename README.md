@@ -25,16 +25,25 @@
 
 ## 💻 Technologies Used 💻
 - **Languages:** Python (3.11), SQL  
-- **ML/DL Libraries:** Scikit-learn, XGBoost, CatBoost, PyTorch, TensorFlow, Keras  
-- **NLP Tools:** NLTK, spaCy, TF-IDF, CRFs  
+- **Machine Learning:** Scikit-learn, XGBoost, CatBoost  
+- **Deep Learning:** PyTorch, TensorFlow, Keras  
+- **Generative AI & LLMs:** LangChain, OpenAI API, Prompt Engineering, LLM Chains, Output Parsers  
+- **Computer Vision:** CNNs, Vision Transformers (ViT), Attention Mechanisms  
+- **NLP:** NLTK, spaCy, TF-IDF, CRFs  
+- **Embeddings & Semantic Search:** Vector Embeddings, Similarity Search  
+- **Optimization & Training:** GPU Acceleration, Optuna (Hyperparameter Tuning)  
 - **Visualization:** Matplotlib, Seaborn, Plotly  
-- **Deployment:** Flask, OpenAI API  
-- **Others:** Pandas, NumPy, Jupyter  
+- **Deployment & Apps:** Flask  
+- **Data & Tools:** Pandas, NumPy, Jupyter Notebook  
+
 
 ---
 
 ## 🎲 Key Highlights 🎲
-- Worked across **healthcare, finance, retail, and accessibility** domains.  
-- Applied both **classical ML** and **Deep Learning** techniques.  
-- Deployed a **Flask-based AI assistant** for laptop recommendations.  
-- Capstone project integrated **Vision + NLP + Speech** for accessibility.  
+- Built end-to-end **Machine Learning, Deep Learning, and Generative AI** projects across healthcare, finance, retail, and accessibility domains.
+- Designed and implemented **LLM-powered applications** using LangChain, including prompt templates, chains, embeddings, and structured outputs.
+- Demonstrated strong foundations in **PyTorch**, covering tensors, autograd, CNNs, RNNs, GPU acceleration, and hyperparameter tuning.
+- Explored **Vision Transformers (ViT)** and attention-based architectures for modern computer vision tasks.
+- Applied both **classical ML algorithms** and **advanced deep learning architectures** to real-world problems.
+- Deployed a **Flask-based AI chatbot** integrated with OpenAI APIs for interactive recommendations.
+- Built multi-modal AI systems combining **Vision, NLP, and Speech** to improve accessibility for visually impaired users.
