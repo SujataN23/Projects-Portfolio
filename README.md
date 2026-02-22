@@ -2,7 +2,7 @@
 # 👾 Machine Learning & AI Projects Portfolio 👾  
 
 > This repository showcases major **Machine Learning, Deep Learning, NLP, and Generative AI projects** I have built and deployed.  
-> It includes production-style AI systems, enterprise RAG architecture, and large-scale model training pipelines.
+> It includes  AI systems, enterprise RAG architecture, and large-scale model training pipelines.
 
 ---
 
@@ -10,8 +10,8 @@
 
 | # | Project | Description | Key Methods / Tech | Outcome |
 |---|---------|-------------|--------------------|----------|
-| 1 | **Enterprise RAG AI Assistant (Azure)** | Secure Retrieval-Augmented Generation system for IT knowledge retrieval using Azure infrastructure. | Azure OpenAI, Azure AI Search, Vector Embeddings, FastAPI, Docker, Managed Identity, Private Endpoint | Production-style enterprise AI assistant with secure architecture and semantic search. |
-| 2 | **Large-Scale Sentiment Analysis (Production Pipeline)** | Fine-tuned transformer model on large streaming datasets for sentiment classification. | HuggingFace Transformers, PyTorch, S3 Streaming, GPU Training, Checkpointing | Built scalable training pipeline with S3 streaming and production-ready model upload. |
+| 1 | **Enterprise RAG AI Assistant (Azure)** | Secure Retrieval-Augmented Generation system for IT knowledge retrieval using Azure infrastructure. | Azure OpenAI, Azure AI Search, Vector Embeddings, FastAPI, Docker, Managed Identity, Private Endpoint | enterprise AI assistant with secure architecture and semantic search. |
+| 2 | **Large-Scale Sentiment Analysis (Production Pipeline)** | Fine-tuned transformer model on large streaming datasets for sentiment classification. | HuggingFace Transformers, PyTorch, S3 Streaming, GPU Training, Checkpointing | Built scalable training pipeline with S3 streaming |
 | 3 | **Laptop Shop Assistant (Flask App)** | Chatbot that recommends laptops based on user preferences. | NLP, OpenAI API, Flask | Interactive shopping assistant deployed using Flask. |
 | 4 | **Capstone: Eye for Blind** | Generates image captions and converts them to speech for visually impaired users. | CNN + LSTM with Attention, TTS | Multi-modal AI system making images accessible via audio. |
 | 5 | **Healthcare NLP – Disease-Treatment Extraction** | Extract disease–treatment pairs from clinical text. | CRFs, POS Tagging | Structured medical knowledge extraction. |
@@ -19,11 +19,11 @@
 
 ---
 
-# 🚀 Featured Production-Style Projects
+# 🚀 Featured Projects
 
 ## 🔐 Enterprise RAG AI Assistant (Azure)
 
-A production-style Retrieval-Augmented Generation (RAG) system built using Microsoft Azure cloud services.
+A Retrieval-Augmented Generation (RAG) system built using Microsoft Azure cloud services.
 
 ### Architecture Highlights
 - Azure OpenAI (Chat + Embeddings)
